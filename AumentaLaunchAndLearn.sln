@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AumentaLaunchAndLearn", "AumentaLaunchAndLearn.csproj", "{F3E55E0B-3603-4648-AC96-0ACC1653FE08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3E55E0B-3603-4648-AC96-0ACC1653FE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E55E0B-3603-4648-AC96-0ACC1653FE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E55E0B-3603-4648-AC96-0ACC1653FE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E55E0B-3603-4648-AC96-0ACC1653FE08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34FBA70B-77D4-4D79-8DD0-85E8D9240082}
+	EndGlobalSection
+EndGlobal
