@@ -10,12 +10,14 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Mvc.ApplicationParts.ProvideApplicationPartFactoryAttribute("Microsoft.AspNetCore.Mvc.ApplicationParts.CompiledRazorAssemblyApplicationPartFac" +
+    "tory, Microsoft.AspNetCore.Mvc.Razor")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("AumentaLaunchAndLearn")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyProductAttribute("AumentaLaunchAndLearn")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+829fbc8c867c09d0b0d771eff9fb81a819bb3114")]
-[assembly: System.Reflection.AssemblyProductAttribute("AumentaLaunchAndLearn")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AumentaLaunchAndLearn")]
+[assembly: System.Reflection.AssemblyTitleAttribute("AumentaLaunchAndLearn.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
